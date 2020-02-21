@@ -1,6 +1,6 @@
 # Argo CD UI
 
-![Argo Image](https://github.com/argoproj/argo/blob/master/argo.png?raw=true)
+![Argo Image](https://github.com/argoproj/argo-cd/blob/master/ui/src/assets/images/argo.png?raw=true){:width="40%"}
 
 Web UI for [Argo CD](https://github.com/argoproj/argo-cd).
 
